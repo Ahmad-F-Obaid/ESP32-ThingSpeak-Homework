@@ -7,7 +7,7 @@ This project reads temperature and humidity from a DHT22 sensor using an ESP32 a
 https://thingspeak.com/channels/3551840
 
 ## Wokwi Project Link
-[ضع_رابط_مشروع_وكوي_هنا]
+https://wokwi.com/projects/478970336845481985
 
 ## Student Information
 - **Full Name**: Ahmed Obaid
